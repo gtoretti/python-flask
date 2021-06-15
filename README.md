@@ -1,2 +1,2 @@
 # python-flask
-Example of Python web app using Flask library
+Template/Example of Python web app using Flask library.
